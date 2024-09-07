@@ -11,3 +11,5 @@ yang memberikan pengingat ketika sesi selesai.
 `timer`(https://github.com/caarlos0/timer)
 
 `notify-send`
+
+`lolcat`
