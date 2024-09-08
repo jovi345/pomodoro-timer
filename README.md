@@ -1,15 +1,18 @@
 # Pomodoro Timer (CLI)
 
-Pomodoro Timer adalah aplikasi sederhana berbasis bash
-untuk mengelola waktu belajar dan istirahat menggunakan
-teknik Pomodoro. Aplikasi ini digunakan untuk memulai sesi
-belajar, bekerja, atau istirahat dengan notifikasi desktop
-yang memberikan pengingat ketika sesi selesai.
+Pomoodoro Timer is a simple CLI application for managing
+study and break times using the Pomodoro technique. The app
+is used to start a study and work based on the duration of
+the song being played. Although the break section is only for
+short duration (7 mins).
 
 ## Package Requirements (Linux)
 
+Please download these packages based on your distro if you do
+not have it yet
+
 `timer`(https://github.com/caarlos0/timer)
-
-`notify-send`
-
+`libnotify-bin`
 `lolcat`
+`yt-dlp`
+`sed`
